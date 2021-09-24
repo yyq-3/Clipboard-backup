@@ -1,0 +1,10 @@
+E:\CSharp-WorkSpace\Win10备份工具\剪切板自动备份\剪切板自动备份\bin\Debug\剪切板自动备份.exe.config
+E:\CSharp-WorkSpace\Win10备份工具\剪切板自动备份\剪切板自动备份\bin\Debug\剪切板自动备份.exe
+E:\CSharp-WorkSpace\Win10备份工具\剪切板自动备份\剪切板自动备份\bin\Debug\剪切板自动备份.pdb
+E:\CSharp-WorkSpace\Win10备份工具\剪切板自动备份\剪切板自动备份\obj\Debug\剪切板自动备份.csprojAssemblyReference.cache
+E:\CSharp-WorkSpace\Win10备份工具\剪切板自动备份\剪切板自动备份\obj\Debug\剪切板自动备份.Properties.Resources.resources
+E:\CSharp-WorkSpace\Win10备份工具\剪切板自动备份\剪切板自动备份\obj\Debug\剪切板自动备份.csproj.GenerateResource.cache
+E:\CSharp-WorkSpace\Win10备份工具\剪切板自动备份\剪切板自动备份\obj\Debug\剪切板自动备份.csproj.CoreCompileInputs.cache
+E:\CSharp-WorkSpace\Win10备份工具\剪切板自动备份\剪切板自动备份\obj\Debug\剪切板自动备份.exe
+E:\CSharp-WorkSpace\Win10备份工具\剪切板自动备份\剪切板自动备份\obj\Debug\剪切板自动备份.pdb
+E:\CSharp-WorkSpace\Win10备份工具\剪切板自动备份\剪切板自动备份\obj\Debug\剪切板自动备份.Form1.resources
